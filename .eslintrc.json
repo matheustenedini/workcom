@@ -1,0 +1,57 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "airbnb",
+        "plugin:@typescript-eslint/recommended",
+        "prettier"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "@typescript-eslint",
+        "prettier"
+    ],
+    "rules": {
+        "prettier/prettier": "error",
+        "react/prop-types": "off",
+        "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
+        "react/react-in-jsx-scope": "off",
+        "react/function-component-definition": "off",
+        "react/require-default-props": "off",
+        "import/no-extraneous-dependencies": "off",
+        "jsx-a11y/mouse-events-have-key-events": "off",
+        "no-param-reassign": "off",
+        "import/extensions": [
+          "error",
+          "ignorePackages",
+          {
+            "js": "never",
+            "jsx": "never",
+            "ts": "never",
+            "tsx": "never"
+          }
+       ],
+       "@typescript-eslint/ban-ts-comment": "off",
+        "jsx-a11y/anchor-is-valid": "off"
+
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "extensions": [".js", ".jsx", ".ts", ".tsx"]
+        }
+      }
+    }
+}
