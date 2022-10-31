@@ -83,7 +83,7 @@ $ yarn dev # ou npm run dev
 - [Nookies](https://github.com/maticzav/nookies) - Gerenciar cookies
 - [React-Hot-Toast](https://react-hot-toast.com/) - Notificações popup
 - [React-Spring](https://react-spring.dev/) - Animações
-- [Reat-Textarea-Autosize](https://www.npmjs.com/package/react-textarea-autosize) - Redimensionar componentes “textarea” automaticamente
+- [Reat-Textarea-Autosize](https://github.com/Andarist/react-textarea-autosize) - Redimensionar componentes “textarea” automaticamente
 
 ## Outras ferramentas
 
