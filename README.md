@@ -10,7 +10,7 @@ Assim como empresas de transporte (Uber, Cabify), conectam motoristas a passagei
 
 [Acesse o site do projeto](https://workcom.vercel.app)
 
-## Porque?
+## Por quê?
 
 Esse projeto é parte do meu portfólio pessoal, uma solução de tecnologia para um problema presente atualmente — encontrar profissionais capacitados no área da saúde. Enzo Ferrari disse “O carro mais bonito é o que nos falta construir”, e essa é a minha filosofia, sigo criando projetos e encontrando soluções, sempre em busca de adquirir experiências e fazer a diferença. 
 
