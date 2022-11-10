@@ -12,7 +12,9 @@ Assim como empresas de transporte (Uber, Cabify), conectam motoristas a passagei
 
 ## Por quê?
 
-Esse projeto é parte do meu portfólio pessoal, uma solução de tecnologia para um problema presente atualmente — encontrar profissionais capacitados no área da saúde. Enzo Ferrari disse “O carro mais bonito é o que nos falta construir”, e essa é a minha filosofia, sigo criando projetos e encontrando soluções, sempre em busca de adquirir experiências e fazer a diferença. 
+Esse projeto é parte do meu portfólio pessoal, foi desenvolvido durante um mês com o objetivo de colocar meus conhecimentos em prática na **criação de uma aplicação completa do zero** (sem utilizar como base cursos ou outros projetos).
+
+O desenvolvimento desse projeto foi feito em parceria com um amigo, responsável pelo back-end, enquanto fui o responsável pela elaboração do design (UI  e UX) e pelo código front-end.
 
 ## Algumas observações sobre este App
 
@@ -88,8 +90,8 @@ $ yarn dev # ou npm run dev
 ## Outras ferramentas
 
 - [Amazon S3](https://aws.amazon.com/pt/s3/) - Armazenamento de imagens
-- [Vercel](https://vercel.com/) - Hospedagem frontend
-- [Heroku](https://www.heroku.com/) - Hospedagem backend
+- [Vercel](https://vercel.com/) - Hospedagem front-end
+- [Heroku](https://www.heroku.com/) - Hospedagem back-end
 
 ## License
 
