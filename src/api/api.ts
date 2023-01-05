@@ -3,7 +3,7 @@ import { parseCookies } from 'nookies';
 import toast from 'react-hot-toast';
 
 const api = axios.create({
-  baseURL: 'https://web-production-366b.up.railway.app/,
+  baseURL: 'https://web-production-366b.up.railway.app/',
   // baseURL: 'http://localhost:8080',
 });
 
